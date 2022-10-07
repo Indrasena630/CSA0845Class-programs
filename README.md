@@ -10,7 +10,6 @@ Day 1
 9.maximum number of guests
 10.Modify the string 
    
-   
 Day 2
 1.climbing a staircase
 2.leap year
@@ -22,8 +21,7 @@ Day 2
 8.Regular expression
 9.year is divided into four seasons
 10.remove the words that are common in two strings
-    
-    
+       
  Day 3
  1.Trading
  2.Project manager
