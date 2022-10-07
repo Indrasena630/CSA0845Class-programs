@@ -32,7 +32,7 @@ Day 2
  7.Permutations
  8.Anagram
  9.regular expression
- 10.Convert one word to another word
+ 10.Convert one word to another words
     
     
     
