@@ -42,6 +42,37 @@ Day 4
 4.valid palindrome
 5.array of integers
 6.deleting occurences
+7.count sorted vowel strings
+9.year is divided into four seasons
+
+
+
+Day 5
+1.length of last word
+2.composite numbers between a&b
+3.calculate the bonus
+4.lcm and gcd
+6.calculate pow(x,n),add(x,n)
+7.Robert like mathematics
+8.prime and composite numbers
+9.eligible to vote
+10.pattern program
+
+
+
+Day 6
+1.pythageron triplet
+2.factors of n
+3.print he pattern
+4.perfect numbers
+5.print the pattern
+7.mean,median,mode
+15.perfect number or not
+21.pattern program
+
+
+
+
     
     
     
